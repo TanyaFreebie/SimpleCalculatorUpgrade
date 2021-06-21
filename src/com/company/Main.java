@@ -34,4 +34,8 @@ public class Main {
 		}
 		return answer;
 	}
+
+	//create a method that checks two numbers and uses switch to
+	//return max, min
+
 }
