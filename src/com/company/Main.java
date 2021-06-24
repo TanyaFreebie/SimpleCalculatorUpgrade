@@ -13,7 +13,7 @@ public class Main {
 	String operator = "max";
 
 	System.out.println(doArithmetic(firstValue, secondValue, operator));
-	System.out.println("answer hometask:" + doMaxMin(firstValue, secondValue, operator));
+	System.out.println("answer hometask: " + doMaxMin(firstValue, secondValue, operator));
     }
     public static double doArithmetic(double firstNumber, double secondNumber, String operator){
     	double  answer = 0;
